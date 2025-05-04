@@ -236,8 +236,8 @@ footer {
 }
 
 .circle {
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     background: #3498db;
     display: flex;
@@ -258,11 +258,6 @@ footer {
     position: absolute;
     width: 120px;
     text-align: center;
-}
-
-.sign-icon {
-    font-size: 32px;
-    margin-bottom: 5px;
 }
 
 .sign-text {
@@ -304,12 +299,4 @@ footer {
     left: 10%;
 }
 
-/* Анимация при наведении */
-.sign-item:hover .sign-icon {
-    transform: scale(1.2);
-    transition: transform 0.3s;
-}
-.sign-item:hover .sign-text {
-    background: #e3f2fd;
-    transition: background 0.3s;
-}
+
