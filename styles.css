@@ -236,9 +236,9 @@ footer {
 }
 
 .circle {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
+    width: 140px;
+    height: 40px;
+    border-radius: 10%;
     background: #3498db;
     display: flex;
     align-items: center;
